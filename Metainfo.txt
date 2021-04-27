@@ -1,18 +1,16 @@
 
-Name of QuantLet : UMAP
+Name of QuantLet : 'UMAP'
 
-Published in : UMAP
+Published in : 'UMAP'
 
-Description : "Clustering results displayed in the reduced space by applying different types of dimension reduction methods, including PCA and tSNE."
+Description : 'Clustering results displayed in the reduced space by applying different types of dimension reduction methods, including PCA and tSNE.'
 
 Keywords : 'K expectiles clustering, PCA, tSNE'
 
-Author : Bingling Wang
+Author : 'Bingling Wang'
 
-Submitted : Wed, April 27 2021 by Bingling Wang
+Submitted : 'Wed, April 27 2021 by Bingling Wang'
 
 Example: 
-- 1: PCA clustering results
-- 2: tSNE clustering results
-
-
+- 1: 'PCA clustering results'
+- 2: 'tSNE clustering results'
